@@ -1,9 +1,5 @@
 # Stronger-MAS: Multi-Agent Reinforcement Learning for Collaborative LLMs
 
-![AT-GRPO vs single-agent RL](../../assets/papers/stronger-mas/fig1-at-grpo-vs-grpo.png)
-
-![Multi-agent workflow](../../assets/papers/stronger-mas/fig2-mas-workflow.png)
-
 ## Basic Info
 
 - Paper: Stronger-MAS: Multi-Agent Reinforcement Learning for Collaborative LLMs

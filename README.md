@@ -11,14 +11,17 @@ This repository tracks frontier AI research, paper reading, and engineering prac
 
 The core goal is simple: break down important research ideas, understand why they work, and turn them into reproducible, explainable, and engineering-aware technical notes.
 
-## Latest Paper Notes
+## Top-Tier Paper Coverage
 
-| Paper | Venue | Direction | Key Idea |
-| --- | --- | --- | --- |
-| [LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora](papers/rag/2026-iclr-linearrag.md) | ICLR 2026 Poster | GraphRAG / RAG | Replaces unstable relation extraction with a relation-free Tri-Graph, enabling linear-scale graph retrieval with no extra LLM token cost during graph construction |
-| [Stronger-MAS: Multi-Agent Reinforcement Learning for Collaborative LLMs](papers/agentic-rl/2026-iclr-stronger-mas.md) | ICLR 2026 | Agentic RL / MAS | Uses agent- and turn-wise GRPO to train collaborative LLM teams for long-horizon planning, coding, games, and math |
-| [Agent Lightning: Train ANY AI Agents with Reinforcement Learning](papers/agentic-rl/2025-agent-lightning.md) | arXiv 2025 | Agentic RL / Training Systems | Decouples agent execution from RL training through a unified trajectory interface and LightningRL credit assignment |
-| [ReVeal: Self-Evolving Code Agents via Reliable Self-Verification](papers/ai-agent/2025-reveal.md) | arXiv 2025 / ICLR 2026 | AI Agent / Code Agents | Trains code agents to improve through iterative generation, self-verification, tool feedback, and turn-level rewards |
+| Direction | Folder | Top-Tier Papers |
+| --- | --- | --- |
+| Large Language Models | [large-language-models](papers/large-language-models/) | 3 |
+| RAG | [rag](papers/rag/) | 3 |
+| AI Agent | [ai-agent](papers/ai-agent/) | 3 |
+| Multimodal AI | [multimodal-ai](papers/multimodal-ai/) | 3 |
+| Efficient AI | [efficient-ai](papers/efficient-ai/) | 3 |
+| Evaluation | [evaluation](papers/evaluation/) | 3 |
+| Agentic RL | [agentic-rl](papers/agentic-rl/) | 3 |
 
 ## What This Repository Shares
 
@@ -38,6 +41,7 @@ The core goal is simple: break down important research ideas, understand why the
 | Multimodal AI | vision-language models, contrastive learning, image-text alignment, multimodal reasoning |
 | Efficient AI | LoRA, QLoRA, distillation, quantization, pruning, KV cache, inference optimization |
 | Evaluation | benchmark analysis, ablation study, hallucination evaluation, production metrics |
+| Agentic RL | RLHF, preference optimization, multi-agent RL, credit assignment, long-horizon agent training |
 
 ## Repository Structure
 
@@ -57,7 +61,6 @@ AI-/
 +-- assets/
 |   +-- ai-frontier-lab-banner.svg
 |   +-- research-workflow.svg
-|   +-- papers/
 +-- projects/
     +-- README.md
 ```

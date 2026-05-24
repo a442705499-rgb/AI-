@@ -1,9 +1,5 @@
 # ReVeal: Self-Evolving Code Agents via Reliable Self-Verification
 
-![ReVeal generation-verification loop](../../assets/papers/reveal/fig1-livecodebench.png)
-
-![Verification-generation gap](../../assets/papers/reveal/fig2-generation-verification-loop.png)
-
 ## Basic Info
 
 - Paper: ReVeal: Self-Evolving Code Agents via Reliable Self-Verification

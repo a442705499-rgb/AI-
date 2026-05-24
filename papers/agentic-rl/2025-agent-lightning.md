@@ -1,9 +1,5 @@
 # Agent Lightning: Train ANY AI Agents with Reinforcement Learning
 
-![Agent Lightning architecture](../../assets/papers/agent-lightning/fig1-architecture.png)
-
-![Agent Lightning process](../../assets/papers/agent-lightning/fig2-process.png)
-
 ## Basic Info
 
 - Paper: Agent Lightning: Train ANY AI Agents with Reinforcement Learning
