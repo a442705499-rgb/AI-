@@ -11,17 +11,12 @@ This repository tracks frontier AI research, paper reading, and engineering prac
 
 The core goal is simple: break down important research ideas, understand why they work, and turn them into reproducible, explainable, and engineering-aware technical notes.
 
-## Top-Tier Paper Coverage
+## Recent Shares
 
-| Direction | Folder | Top-Tier Papers |
-| --- | --- | --- |
-| Large Language Models | [large-language-models](papers/large-language-models/) | 3 |
-| RAG | [rag](papers/rag/) | 3 |
-| AI Agent | [ai-agent](papers/ai-agent/) | 3 |
-| Multimodal AI | [multimodal-ai](papers/multimodal-ai/) | 3 |
-| Efficient AI | [efficient-ai](papers/efficient-ai/) | 3 |
-| Evaluation | [evaluation](papers/evaluation/) | 3 |
-| Agentic RL | [agentic-rl](papers/agentic-rl/) | 3 |
+| Paper | Venue | Direction | Key Idea |
+| --- | --- | --- | --- |
+| [LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora](papers/rag/2026-iclr-linearrag.md) | ICLR 2026 Poster | RAG / GraphRAG | Builds a relation-free Tri-Graph for efficient large-scale multi-hop retrieval |
+| [Stronger-MAS: Multi-Agent Reinforcement Learning for Collaborative LLMs](papers/agentic-rl/2026-iclr-stronger-mas.md) | ICLR 2026 | Agentic RL / Multi-Agent Systems | Uses agent- and turn-wise GRPO to train collaborative LLM teams |
 
 ## What This Repository Shares
 
