@@ -61,7 +61,6 @@ The project index lives in [projects/README.md](projects/README.md). Planned pro
 
 ## What I Am Building Toward
 
-I am preparing for AI algorithm engineer roles by strengthening three abilities:
 
 - Research understanding: quickly reading papers and extracting the key algorithmic contribution
 - Engineering implementation: translating papers into clean, testable, reproducible code
