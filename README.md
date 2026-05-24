@@ -4,6 +4,12 @@
 
 我更关注一件事：把论文里的关键思想拆开，看懂它为什么有效，再尽量转化成可复现、可解释、可落地的工程经验。
 
+## Latest Paper Notes
+
+| Paper | Venue | Direction | Key Idea |
+| --- | --- | --- | --- |
+| [LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora](papers/2026-iclr-linearrag.md) | ICLR 2026 Poster | GraphRAG / RAG | 用 relation-free Tri-Graph 替代不稳定的关系抽取，在大规模语料上实现线性复杂度、无额外 LLM token 的图检索增强生成 |
+
 ## What This Repository Shares
 
 - 前沿 AI 论文精读：提炼问题背景、核心方法、实验设计和局限性
@@ -30,7 +36,8 @@ AI-/
 ├── README.md
 ├── papers/
 │   ├── README.md
-│   └── template.md
+│   ├── template.md
+│   └── 2026-iclr-linearrag.md
 └── projects/
     └── README.md
 ```
