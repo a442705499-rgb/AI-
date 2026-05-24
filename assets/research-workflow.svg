@@ -1,0 +1,36 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Research to engineering workflow</title>
+  <desc id="desc">A workflow diagram from paper selection to implementation, evaluation, and technical notes.</desc>
+  <rect width="1200" height="420" rx="20" fill="#F8FAFC"/>
+  <rect x="28" y="28" width="1144" height="364" rx="18" fill="#FFFFFF" stroke="#D8E0EA"/>
+  <text x="72" y="84" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Research-to-Engineering Loop</text>
+  <text x="72" y="116" fill="#475569" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">A repeatable workflow for turning frontier AI papers into practical system knowledge.</text>
+  <g transform="translate(72 170)">
+    <rect x="0" y="0" width="180" height="100" rx="16" fill="#E0F2FE" stroke="#38BDF8"/>
+    <text x="28" y="42" fill="#075985" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Read</text>
+    <text x="28" y="70" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Motivation, method,</text>
+    <text x="28" y="88" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">assumptions</text>
+    <path d="M190 50 H255" stroke="#64748B" stroke-width="2" stroke-linecap="round"/>
+    <path d="M245 40 L257 50 L245 60" stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="270" y="0" width="180" height="100" rx="16" fill="#DCFCE7" stroke="#34D399"/>
+    <text x="298" y="42" fill="#166534" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Decompose</text>
+    <text x="298" y="70" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Architecture, data,</text>
+    <text x="298" y="88" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">retrieval, loss</text>
+    <path d="M460 50 H525" stroke="#64748B" stroke-width="2" stroke-linecap="round"/>
+    <path d="M515 40 L527 50 L515 60" stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="540" y="0" width="180" height="100" rx="16" fill="#FEF3C7" stroke="#FBBF24"/>
+    <text x="568" y="42" fill="#92400E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Implement</text>
+    <text x="568" y="70" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Minimal reproducible</text>
+    <text x="568" y="88" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">components</text>
+    <path d="M730 50 H795" stroke="#64748B" stroke-width="2" stroke-linecap="round"/>
+    <path d="M785 40 L797 50 L785 60" stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="810" y="0" width="180" height="100" rx="16" fill="#EDE9FE" stroke="#A78BFA"/>
+    <text x="838" y="42" fill="#5B21B6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Evaluate</text>
+    <text x="838" y="70" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Metrics, ablations,</text>
+    <text x="838" y="88" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">failure cases</text>
+  </g>
+  <g transform="translate(72 318)">
+    <rect x="0" y="0" width="990" height="44" rx="12" fill="#0F172A"/>
+    <text x="24" y="28" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Output: structured paper notes, engineering takeaways, reproduction plans, and reusable AI system patterns.</text>
+  </g>
+</svg>

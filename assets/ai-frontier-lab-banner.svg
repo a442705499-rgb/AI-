@@ -1,0 +1,41 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AI Frontier Lab banner</title>
+  <desc id="desc">A technical banner showing AI research, retrieval systems, graphs, and engineering workflows.</desc>
+  <rect width="1200" height="360" fill="#0B1020"/>
+  <path d="M0 250 C160 180 280 300 430 230 C590 150 700 90 860 145 C1010 198 1080 100 1200 76 V360 H0 Z" fill="#10283F"/>
+  <path d="M0 294 C180 220 310 330 460 260 C620 184 720 137 880 185 C1035 232 1100 145 1200 120 V360 H0 Z" fill="#0F3B3E"/>
+  <g opacity="0.34">
+    <circle cx="164" cy="78" r="3" fill="#8BE9FD"/>
+    <circle cx="265" cy="112" r="3" fill="#A7F3D0"/>
+    <circle cx="342" cy="61" r="3" fill="#FDE68A"/>
+    <circle cx="511" cy="111" r="3" fill="#8BE9FD"/>
+    <circle cx="646" cy="61" r="3" fill="#A7F3D0"/>
+    <circle cx="771" cy="105" r="3" fill="#FDE68A"/>
+    <circle cx="902" cy="69" r="3" fill="#8BE9FD"/>
+    <circle cx="1031" cy="118" r="3" fill="#A7F3D0"/>
+    <path d="M164 78 L265 112 L342 61 L511 111 L646 61 L771 105 L902 69 L1031 118" stroke="#C4E1FF" stroke-width="1.5"/>
+    <path d="M265 112 L511 111 M342 61 L646 61 M646 61 L902 69 M771 105 L1031 118" stroke="#C4E1FF" stroke-width="1"/>
+  </g>
+  <g transform="translate(82 72)">
+    <rect x="0" y="0" width="500" height="142" rx="18" fill="#111827" stroke="#2DD4BF" stroke-width="1.5"/>
+    <text x="32" y="50" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="40" font-weight="700">AI Frontier Lab</text>
+    <text x="34" y="88" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Paper Reading | RAG | Agents | Evaluation</text>
+    <text x="34" y="120" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Turning frontier research into reproducible engineering notes</text>
+  </g>
+  <g transform="translate(720 70)">
+    <rect x="0" y="0" width="340" height="198" rx="16" fill="#0F172A" stroke="#38BDF8" stroke-width="1.3"/>
+    <rect x="38" y="38" width="92" height="42" rx="10" fill="#123B4A" stroke="#38BDF8"/>
+    <rect x="204" y="38" width="92" height="42" rx="10" fill="#173F35" stroke="#34D399"/>
+    <rect x="38" y="122" width="92" height="42" rx="10" fill="#403515" stroke="#FBBF24"/>
+    <rect x="204" y="122" width="92" height="42" rx="10" fill="#2E2B53" stroke="#A78BFA"/>
+    <text x="64" y="64" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Papers</text>
+    <text x="232" y="64" fill="#D1FAE5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Models</text>
+    <text x="54" y="148" fill="#FEF3C7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Code</text>
+    <text x="230" y="148" fill="#EDE9FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Eval</text>
+    <path d="M130 59 H204 M84 80 V122 M250 80 V122 M130 143 H204" stroke="#94A3B8" stroke-width="1.6" stroke-linecap="round"/>
+    <circle cx="169" cy="59" r="4" fill="#38BDF8"/>
+    <circle cx="84" cy="101" r="4" fill="#FBBF24"/>
+    <circle cx="250" cy="101" r="4" fill="#34D399"/>
+    <circle cx="169" cy="143" r="4" fill="#A78BFA"/>
+  </g>
+</svg>

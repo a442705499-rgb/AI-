@@ -1,5 +1,12 @@
 # AI Frontier Lab
 
+![AI Frontier Lab](assets/ai-frontier-lab-banner.svg)
+
+![Focus](https://img.shields.io/badge/Focus-Frontier%20AI-0F172A?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Graph%20Retrieval-0369A1?style=flat-square)
+![Papers](https://img.shields.io/badge/Papers-Structured%20Notes-047857?style=flat-square)
+![Engineering](https://img.shields.io/badge/Engineering-Reproducible%20Systems-B45309?style=flat-square)
+
 This repository tracks frontier AI research, paper reading, and engineering practice over the long term. The main focus areas include large language models, RAG, multimodal learning, efficient training and inference, AI agents, and evaluation systems.
 
 The core goal is simple: break down important research ideas, understand why they work, and turn them into reproducible, explainable, and engineering-aware technical notes.
@@ -38,11 +45,16 @@ AI-/
 |   +-- README.md
 |   +-- template.md
 |   +-- 2026-iclr-linearrag.md
++-- assets/
+|   +-- ai-frontier-lab-banner.svg
+|   +-- research-workflow.svg
 +-- projects/
     +-- README.md
 ```
 
 ## Paper Reading System
+
+![Research to Engineering Workflow](assets/research-workflow.svg)
 
 Each paper note is organized around a consistent set of questions:
 
