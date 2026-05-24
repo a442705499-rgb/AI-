@@ -1,6 +1,6 @@
-# Agent RL
+# Agentic RL
 
-This folder tracks papers on reinforcement learning for LLM agents, multi-agent systems, long-horizon planning, tool use, and agent training infrastructure.
+This folder tracks papers on reinforcement learning for LLM agents, multi-agent RL, credit assignment, long-horizon planning, tool use, and agent training infrastructure.
 
 ## Papers
 

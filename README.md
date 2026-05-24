@@ -16,9 +16,9 @@ The core goal is simple: break down important research ideas, understand why the
 | Paper | Venue | Direction | Key Idea |
 | --- | --- | --- | --- |
 | [LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora](papers/rag/2026-iclr-linearrag.md) | ICLR 2026 Poster | GraphRAG / RAG | Replaces unstable relation extraction with a relation-free Tri-Graph, enabling linear-scale graph retrieval with no extra LLM token cost during graph construction |
-| [Stronger-MAS: Multi-Agent Reinforcement Learning for Collaborative LLMs](papers/agent-rl/2026-iclr-stronger-mas.md) | ICLR 2026 | Agent RL / MAS | Uses agent- and turn-wise GRPO to train collaborative LLM teams for long-horizon planning, coding, games, and math |
-| [Agent Lightning: Train ANY AI Agents with Reinforcement Learning](papers/agent-rl/2025-agent-lightning.md) | arXiv 2025 | Agent RL / Training Systems | Decouples agent execution from RL training through a unified trajectory interface and LightningRL credit assignment |
-| [ReVeal: Self-Evolving Code Agents via Reliable Self-Verification](papers/code-agents/2025-reveal.md) | arXiv 2025 / ICLR 2026 | Code Agents | Trains code agents to improve through iterative generation, self-verification, tool feedback, and turn-level rewards |
+| [Stronger-MAS: Multi-Agent Reinforcement Learning for Collaborative LLMs](papers/agentic-rl/2026-iclr-stronger-mas.md) | ICLR 2026 | Agentic RL / MAS | Uses agent- and turn-wise GRPO to train collaborative LLM teams for long-horizon planning, coding, games, and math |
+| [Agent Lightning: Train ANY AI Agents with Reinforcement Learning](papers/agentic-rl/2025-agent-lightning.md) | arXiv 2025 | Agentic RL / Training Systems | Decouples agent execution from RL training through a unified trajectory interface and LightningRL credit assignment |
+| [ReVeal: Self-Evolving Code Agents via Reliable Self-Verification](papers/ai-agent/2025-reveal.md) | arXiv 2025 / ICLR 2026 | AI Agent / Code Agents | Trains code agents to improve through iterative generation, self-verification, tool feedback, and turn-level rewards |
 
 ## What This Repository Shares
 
@@ -47,12 +47,13 @@ AI-/
 +-- papers/
 |   +-- README.md
 |   +-- template.md
+|   +-- large-language-models/
 |   +-- rag/
-|   +-- agent-rl/
-|   +-- code-agents/
-|   +-- multimodal/
+|   +-- ai-agent/
+|   +-- multimodal-ai/
 |   +-- efficient-ai/
 |   +-- evaluation/
+|   +-- agentic-rl/
 +-- assets/
 |   +-- ai-frontier-lab-banner.svg
 |   +-- research-workflow.svg

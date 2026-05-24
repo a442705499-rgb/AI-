@@ -1,6 +1,6 @@
-# Code Agents
+# AI Agent
 
-This folder tracks papers on coding agents, self-verification, tool-augmented programming, iterative debugging, and test-time scaling.
+This folder tracks papers on agent workflows, tool use, memory, planning, coding agents, self-verification, and multi-step autonomous systems.
 
 ## Papers
 
