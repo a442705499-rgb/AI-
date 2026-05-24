@@ -1,5 +1,9 @@
 # LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora
 
+![LinearRAG overview](../../assets/papers/linearrag/fig1-linearrag-overview.png)
+
+![LinearRAG comparison](../../assets/papers/linearrag/fig2-rag-comparison.png)
+
 ## Basic Info
 
 - Paper: LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora
